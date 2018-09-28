@@ -1,7 +1,7 @@
 
 
 # NewsApp
-you can see News app through this link *https://shefy123.github.io/newsApp/* .
+you can see News app through this link *https://shefy123.github.io/new-App/* .
 
 Uses the *https://newsapi.org/* to request News data.
 
