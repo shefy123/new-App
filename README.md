@@ -23,4 +23,4 @@ To make this application, we're going to need to cover the following languages:
 
 • jQuery - a javascript library that makes web programming a bit easier for us.
 
-© 2018 GitHub, Inc.
+
